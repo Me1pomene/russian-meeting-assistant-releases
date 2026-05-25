@@ -1,2 +1,3 @@
-# russian-meeting-assistant-releases
-Репозиторий для обновлений приложения
+# Russian Meeting Assistant Releases
+
+Public update channel for Russian Meeting Assistant installers.
